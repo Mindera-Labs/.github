@@ -1,1 +1,1 @@
-# .github
+# Mindera Labs
